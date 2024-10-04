@@ -9,7 +9,7 @@ authors = ["TheQuantumPhysicist"]
 repository = "https://github.com/TheQuantumPhysicist/rdgen"
 
 [dependencies]
-rdgen-lib = { path = "rdgen-lib" }
+rdgen-lib = { path = "rdgen-lib", version = "0.1.0" }
 
 anyhow = "1.0"
 clap = { version = "4.5", features = ["derive"] }
