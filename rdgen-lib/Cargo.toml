@@ -1,5 +1,7 @@
 [package]
 name = "rdgen-lib"
+description = "The main library for a terminal program for generating reproducible random data for testing"
+repository = "https://github.com/TheQuantumPhysicist/rdgen"
 license.workspace = true
 version.workspace = true
 edition.workspace = true
